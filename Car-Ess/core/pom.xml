@@ -5,8 +5,9 @@
 
     <modelVersion>4.0.0</modelVersion>
     <parent>
+
+        <groupId>org.ljj</groupId>
         <artifactId>Car-Ess</artifactId>
-        <groupId>Car-Ess</groupId>
         <version>1.0</version>
     </parent>
 

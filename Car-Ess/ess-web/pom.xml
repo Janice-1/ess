@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <artifactId>Car-Ess</artifactId>
-        <groupId>Car-Ess</groupId>
+        <groupId>org.ljj</groupId>
         <version>1.0</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
@@ -16,9 +16,9 @@
         <cxf.version>2.7.15</cxf.version>
     </properties>
 
-   <!-- <dependencies>
+   <!--<dependencies>
         <dependency>
-            <groupId>Car-Ess</groupId>
+            <groupId>org.ljj</groupId>
             <artifactId>core</artifactId>
             <version>1.0</version>
         </dependency>
